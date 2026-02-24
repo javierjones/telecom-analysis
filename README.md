@@ -14,8 +14,6 @@ servicios móviles (llamadas y mensajes) para:
 
 ## 📂 Datasets Utilizados
 
-## 📂 Datasets
-
 El proyecto se basa en tres datasets estructurados que simulan operaciones reales de telecomunicaciones.
 
 ---
